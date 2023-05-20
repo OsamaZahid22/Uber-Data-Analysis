@@ -1,0 +1,3 @@
+Tech Stack:
+Jupyter Notebook
+lucid(for data modeling)
